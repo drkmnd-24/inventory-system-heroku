@@ -27,7 +27,7 @@ SECRET_KEY = 'qgnuu^1i+(_v3m5&qdn4755_1odd)b((k5jpmzehblf=0e^@(+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['secret-ocean-51897.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
